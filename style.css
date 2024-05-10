@@ -20,8 +20,8 @@ body {
     padding: 0;
 }
 
-.principal {website
-    background-image: url("background.png");
+.principal {
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
