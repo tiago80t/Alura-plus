@@ -20,8 +20,8 @@ body {
     padding: 0;
 }
 
-.principal {
-    background-image: url("img/Background.png");
+.principal {website
+    background-image: url("background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -35,7 +35,7 @@ body {
 }
 
 .container__botao {
-    background-color: var(--botao-azul);
+    background-color: var(--botao-azul);website
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
@@ -51,7 +51,7 @@ body {
 
 .container__aviso {
     font-size: 12px;
-    color: var(--cinza-secundario);
+    color: var(--cinza-secundario);website
 }
 
 .container__titulo {
@@ -152,4 +152,4 @@ body {
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
-}
+} 
